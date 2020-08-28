@@ -1,0 +1,2 @@
+# BillChecking-SpringBatchWithShell
+实现了基于SpringBatch与Shell的对账系统，输入是主机文件与平台文件
